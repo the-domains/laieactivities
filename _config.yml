@@ -1,0 +1,28 @@
+name: laieactivities
+favicon: null
+layout_spectrum: 0.010283743031322956
+typography_spectrum: 0.3106222713831812
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.26345710828900337
+  lightness: 0.9626260534860194
+  saturation: 0.038353823125362396
+  rhythmicContrast: 0.6312678358517587
+purpose: []
