@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-08-31T19:04:49.440Z'
+datePublished: '2016-08-31T19:08:52.870Z'
 sourcePath: _posts/2016-08-31-about-michael-gulden.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-08-31T19:04:48.805Z'
+dateModified: '2016-08-31T19:08:52.456Z'
 title: About Michael Gulden
 publisher:
   name: Michael Gulden
@@ -13,7 +13,7 @@ publisher:
 description: >-
   It all started with an idea to start a cool hiking group and evolved into a
   full-fledged tour company called Active Oahu LLC.
-starred: true
+starred: false
 url: about-michael-gulden/index.html
 _type: Article
 
