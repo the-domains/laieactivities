@@ -1,4 +1,34 @@
-purpose: []
+typography_spectrum: 0.4605735
+color:
+  saturation: 0.5537634
+  brandStrength: 0.2634571082890034
+  lightness: 1
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  rhythmicContrast: 0.6541219
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.4641577
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+author:
+  name: Michael Gulden
+  email: activeoahutours@gmail.com
+  url: 'http://activeoahu.com'
+name: laieactivities
+cta:
+  bucket: null
+  version: null
+  domain: null
+favicon: null
 collections:
   - index:
       path: /
@@ -11,30 +41,4 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-color:
-  saturation: 0.5537634
-  brandStrength: 0.2634571082890034
-  lightness: 1
-  brandColors:
-    - '#17BEBB'
-    - '#2E282A'
-    - '#CD5334'
-    - '#EDB88B'
-    - '#FAD8D6'
-  rhythmicContrast: 0.6541219
-cta:
-  bucket: null
-  version: null
-  domain: null
-favicon: null
-analytics:
-  twitter: null
-  google: null
-  facebook: null
-name: laieactivities
-opengraph:
-  image: null
-  type: null
-  appId: null
-typography_spectrum: 0.4605735
-layout_spectrum: 0.4641577
+purpose: []
