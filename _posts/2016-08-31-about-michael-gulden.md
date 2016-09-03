@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-08-31T19:04:25.523Z'
+datePublished: '2016-08-31T19:04:49.440Z'
 sourcePath: _posts/2016-08-31-about-michael-gulden.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-08-31T19:03:20.111Z'
+dateModified: '2016-08-31T19:04:48.805Z'
 title: About Michael Gulden
 publisher:
   name: Michael Gulden
