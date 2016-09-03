@@ -45,6 +45,6 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-title: Tours and activities near you
+title: Laie Activities
 description: Tours and activities near you
 purpose: []
